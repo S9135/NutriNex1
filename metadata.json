@@ -1,0 +1,6 @@
+{
+  "name": "NutriLoop",
+  "description": "A closed-loop digital therapeutic companion that connects clinical data with daily nutrition behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
